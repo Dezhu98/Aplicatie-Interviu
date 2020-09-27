@@ -102,7 +102,7 @@ if($_SESSION['role'] != 'Admin') echo "<script> window.location.replace('dashboa
                             echo "</table></div>";
                         }
                     
-                        else echo "<br/><br/><h2 style='color:red;margin-left:12%;'>You have no tasks assigned for today!</h2>
+                        else echo "<br/><br/><h2 style='color:red;margin-left:12%;'>You have no users!</h2>
                                     <div style='width:100%;height:100px;'></div>
                                         
                                   ";
