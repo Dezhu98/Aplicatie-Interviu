@@ -171,7 +171,7 @@ include('includes/header.php');
                     
                     
                     <h3 style='text-align:center;margin-top:5%;'>Tasks for Members</h3>
-                    <ul style='margin-left:90%; margin-bottom:10%;>
+                    <ul style='margin-left:90%; margin-bottom:10%;'>
 <a href='create_task_leader.php'><li class='login100-form-btn' style='font-size:11px;width:160px;'>Create Task for &nbsp; &nbsp;Team Member</li></a>
                     </ul>";
 				    
