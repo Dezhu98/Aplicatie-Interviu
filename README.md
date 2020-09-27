@@ -7,7 +7,7 @@ Pentru instalare, se va rula scriptul "install.php". Aici, se vor introduce :
 * numele bazei de date unde se doreste instalarea aplicatiei
 * username si parola pentru conectarea la baza de date aleasa
 
-Pentru a facilita procesul de testare al aplicatiei, secventa de instalare creaza in prealabil date pentru test. Alte conturi sau task-uri pot fi adaugate oricand.
+Pentru a facilita procesul de testare al aplicatiei, secventa de instalare creaza in prealabil date pentru test (conturi si task-uri). Alte conturi sau task-uri pot fi adaugate oricand.
 
 Dupa instalare, se va face redirectionare catre pagina de start (index.php).
 
@@ -50,5 +50,7 @@ Scurta descriere a aplicatiei :
 * Pentru gestionarea conturilor se foloseste contul de admin. Aici se pot adauga/sterge conturi, sau se pot modifica permisiunile conturilor existente.
 * In pagina de 'Dashboard' vor aparea doar task-urile din ziua curenta, ordonate dupa importanta acestora. 
 * In pagina de 'All Tasks' vor aparea toate task-urile personale, ordonate dupa duedate.   
-* Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el.   
-* In plus fata de membrii echipei, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de 'All Tasks', separat de task-urile personale. 
+* Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el.
+* Task-urile sunt afisate sub forma de tabel. Pentru a putea vedea descrierea unui task, se va apasa pe iconita de langa titlul task-ului(Pop-Up Icon).
+
+! In plus fata de toate cele mentionate mai sus, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de 'All Tasks', separat de task-urile personale. 
