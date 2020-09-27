@@ -203,7 +203,7 @@ include('includes/header.php');
                                     </tr>
                             
                                  ";
-                            $count = 0;
+                            $count = 1000;
                             while($row = $result->fetch_assoc())
                             {   $color = "#" . dechex(rand(0, 0xFFFFFF));
                                 $whocreated = $row['whocreated'];
