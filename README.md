@@ -7,6 +7,8 @@ Pentru instalare, se va rula scriptul "install.php". Aici, se vor introduce :
 * numele bazei de date unde se doreste instalarea aplicatiei
 * username si parola pentru conectarea la baza de date aleasa
 
+Datele introduse in procesul de instalare vor fi stocate intr-un fisier database.txt pe server. Acesta poate fi modificat ulterior in cazul in care datele introduse trebuie schimbate.
+
 Pentru a facilita procesul de testare al aplicatiei, secventa de instalare creaza in prealabil date pentru test (conturi si task-uri). Alte conturi sau task-uri pot fi adaugate oricand.
 
 Dupa instalare, se va face redirectionare catre pagina de start (index.php).
