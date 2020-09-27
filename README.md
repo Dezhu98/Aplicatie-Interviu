@@ -47,8 +47,8 @@ Conturi de conectare create in prealabil pentru utilizatori :
 
 Scurta descriere a aplicatiei : 
 
-* Pentru gestionarea conturilor se foloseste contul de admin. Aici se pot adauga/sterge conturi, sau se pot modifica permisiunile conturilor existente
-* In pagina de 'Dashboard' vor aparea doar task-urile din ziua curenta, ordonate dupa importanta acestora
-* In pagina de 'All Tasks' vor aparea toate task-urile personale, ordonate dupa duedate
-* Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el
-* In plus fata de membrii echipei, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de All Tasks, separat de task-urile personale
+* Pentru gestionarea conturilor se foloseste contul de admin. Aici se pot adauga/sterge conturi, sau se pot modifica permisiunile conturilor existente.
+* In pagina de 'Dashboard' vor aparea doar task-urile din ziua curenta, ordonate dupa importanta acestora. 
+* In pagina de 'All Tasks' vor aparea toate task-urile personale, ordonate dupa duedate.   
+* Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el.   
+* In plus fata de membrii echipei, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de All Tasks, separat de task-urile personale. 
