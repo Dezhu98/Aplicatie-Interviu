@@ -21,28 +21,34 @@ Cont pentru administrarea aplicatiei:
 
 Conturi de conectare create in prealabil pentru utilizatori :
 
-1. Username:John
+1.
 
-Password: 1234
+* Username : John
 
-Rol :Team Member
+* Password : 1234
 
-2. Username :Bob
+* Rol : Team Member
 
-Password :9876
+2. 
 
-Rol :Team Member
+* Username : Bob
 
-3. Username:Mathew
+* Password : 9876
 
-Password:0000
+* Rol : Team Member
 
-Rol:Team Leader
+3. 
+
+* Username : Mathew
+
+* Password : 0000
+
+* Rol : Team Leader
 
 Scurta descriere a aplicatiei : 
 
-* Pentru gestionarea conturilor se foloseste contul de admin. Aici se pot adauga/sterge conturi, sau se pot modifica permisiunile conturilor existente.
-*In pagina de 'Dashboard' vor aparea doar task-urile din ziua curenta, ordonate dupa importanta acestora.
-*In pagina de 'All Tasks' vor aparea toate task-urile personale, ordonate dupa duedate.
-*Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el.
-*In plus fata de membrii echipei, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de All Tasks, separat de task-urile personale.
+* Pentru gestionarea conturilor se foloseste contul de admin. Aici se pot adauga/sterge conturi, sau se pot modifica permisiunile conturilor existente
+* In pagina de 'Dashboard' vor aparea doar task-urile din ziua curenta, ordonate dupa importanta acestora
+* In pagina de 'All Tasks' vor aparea toate task-urile personale, ordonate dupa duedate
+* Fiecare user poate genera task-uri personale si poate sterge doar task-urile create de el
+* In plus fata de membrii echipei, leader-ul echipei poate crea task-uri pentru membrii si le poate vedea in pagina de All Tasks, separat de task-urile personale
