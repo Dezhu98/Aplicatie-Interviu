@@ -106,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
                     
                     <?php
                         //we will create a dropdown with all team members to avoid human error
-                        $sql = "SELECT DISTINCT username FROM users WHERE role='Team Member'";
+                        $sql = "SELECT DISTINCT username FROM Users WHERE role='Team Member'";
                         $result = $conn->query($sql);
                     ?>
                     
